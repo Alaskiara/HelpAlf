@@ -1,0 +1,25 @@
+To-Do Liste für TDD Coding Kata "Help ALF"
+
+Git-Repository
+- ein Verzeichnis im Terminal erstellen und ein Git-Repository initialisieren
+- Dateien erstellen:
+	- src: spaceshipLocator.js
+	- spec: spaceshipLocatorSpec.js
+	- SpecRunner.html: Scripts einfügen
+- Jasmine Bibliotheken hinzufügen
+
+Implementierung des Produktionscodes:
+- Funktion "findSpaceship" erstellen
+- Funktion "findSpaceship" implementieren, um den ersten Test zu bestehen
+- Funktion "findSpaceship" erweitern, um alle zusätzlichen Testfälle zu bestehen
+
+Testfälle
+- Testfall hinzufügen: Rückgabe von [2, 7] für das gegebene Beispielmap
+- Testfall hinzufügen: Rückgabe von "Spaceship lost forever.", wenn das Raumschiff nicht gefunden wird
+
+Git-Commits
+- jeden Schritt mit einer passenden Commit-Nachricht versehen
+
+Finalisierung
+- alle Tests bestehen lassen
+- Projektverzeichnis zippen und hochladen
